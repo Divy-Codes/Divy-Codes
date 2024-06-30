@@ -4,7 +4,7 @@ I am also a tech enthusiast who believes in progressive tech and change.
 
 ## My Work
 - This is my Mangum Opus, A Youtube Frontend made using the publicly Available Youtube API. You can check it out here 🔗[Youtube-Frontend](https://divyanshu-yt-frontend.web.app/auth)
-- I also made a MArkdown Supported Note Taking app with dark and light modes. Do not let the simplicity fool you. An app whose entire UI changes on every user interaction is very good exercise in React. Check it out [here.](https://web-notes-2024.web.app/)
+- I also made a CRUD Markdown Supported Note Taking app with dark and light modes. Do not let the simplicity fool you. An app whose entire UI changes on every user interaction is very good exercise in React. Check it out [here.](https://web-notes-2024.web.app/)
 - Last and in fact the least(🤡), is a spotify frontend. This was my first project as a programmer so make your judgements keeping this in view. Check out the code [here.](https://github.com/Divy-Codes/SpotifyClient)
 
 ## Techologies I know
