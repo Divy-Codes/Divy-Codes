@@ -20,7 +20,7 @@ I am also a tech enthusiast who believes in progressive tech and change.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px"/>
 
 ## In another world...
-In another world I am into fiction and non-fictions. I am a die-hard fan of Ursula K Le Guin. Give me a ping if you too have read The dispossessed. Ofcourse Literature only makes sense with some progressive politics. I am also an amateur Badminton🏸player and occasional bagpacker. I have plans to explore the latter in the near future.
+In another world I am into fiction and non-fictions. I am a die-hard fan of [Ursula K Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin). Give me a ping if you too have read [The dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed). Ofcourse Literature only makes sense with some progressive politics. I am also an amateur Badminton🏸player and have plans to explore bag-packing and trekking in the near future.
 
 ## You can reach me at
 ✉️ div.office.work@gmail.com
