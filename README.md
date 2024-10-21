@@ -1,5 +1,5 @@
 ## Hello World 👋
-You can call me Divyanshu. Based out of Delhi/Bengaluru, I am an artisan of the digital wolrd with websites and UIs my tapestries. Programming is like art to me, it excites me and gives me a sense of purpose.
+You can call me Divyanshu. Based out of Delhi/Kerala, I am an artisan of the digital world with websites and UIs my tapestries. Programming is like art to me, it excites me and gives me a sense of purpose.
 I am also a tech enthusiast who believes in progressive tech and change. 
 
 ## My Work
